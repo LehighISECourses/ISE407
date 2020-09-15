@@ -14,10 +14,10 @@
     *   [Lecture 4: Programming Languages](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture4.pdf)
     *   [Lecture 5: Design and Analysis of Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture5.pdf)
 *   Theoretical Analysis
-    *   [Lecture 9: Recursion and Recurrences](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture9.pdf)
     *   [Lecture 6: Models of Computation and Theoretical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture6.pdf)
-    *   [Lecture 7: Complexity Classes](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture7.pdf)
-    *   [Lecture 8: Models of Parallel Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture8.pdf)
+    *   [Lecture 7: Recursion and Recurrences](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture9.pdf)
+    *   [Lecture 8: Complexity Classes](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture7.pdf)
+    *   [Lecture 9: Models of Parallel Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture8.pdf)
 *   Empirical Analysis
     *   [Lecture 10: Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10.pdf)
     *   [Lecture 11: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
