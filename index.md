@@ -164,10 +164,10 @@
 
 *   [The Elements of Computing Systems](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/noam-nisan-shimon-schocken/the-elements-of-computing-systems-building-a-modern-computer-from-first-principles/), Noam Nisan and simon Schocken
 *   [Introduction to High Performance Computing for Scientists and Engineers](http://prdrklaina.weebly.com/uploads/5/7/7/3/5773421/introduction_to_high_performance_computing_for_scientists_and_engineers.pdf), Georg Hager and Gerhard Wellein
-*   [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/html/index.html)
-*   [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
+*   [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/html/index.html), Viktor Eijkhout
+*   [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf), Johan Sannemo, 
 *   [Algorithms in C++](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/robert-sedgewick/algorithms-in-c/), Robert Sedgewick
-*   [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf)
+*   [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity/book.pdf), Sanjeev Arora and Boaz Barak
 *   [Parallel Processing and Parallel Algorithms](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/seyed-h-roosta/parallel-processing-and-parallel-algorithms-theory-and-computation/), Seyed Roosta
 *   [Algorithms Sequential and Parallel](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/russ-miller-laurence-boxer/algorithms-sequential-and-parallel/), Russ Miller and Laurence Boxer
 *   [The Design and Analysis of Computer Algorithms](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/alfred-v-aho-john-e-hopcroft-jeffrey-d-ullman/the-design-and-analysis-of-computer-algorithms/), Alfred Aho, John Hopcroft, Jeffrey Ullman
