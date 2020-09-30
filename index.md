@@ -12,7 +12,7 @@
     *   [Lecture 2: The Storage Hierarchy](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture2.pdf)
     *   [Lecture 3: Compilers](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture3.pdf)
     *   [Lecture 4: Programming Languages](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture4.pdf)
-    *   [Lecture 5: Design and Analysis of Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture5.pdf)
+    *   [Lecture 5: Overview of Algorithm Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture5.pdf)
 *   Theoretical Analysis
     *   [Lecture 6: Models of Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture6.pdf)
     *   [Lecture 7: Recursion and Recurrences](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture9.pdf)
