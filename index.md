@@ -19,7 +19,8 @@
     *   [Lecture 8: Complexity and NP-completeness](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture7.pdf)
     *   [Lecture 9: Models of Parallel Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture8.pdf)
 *   Empirical Analysis
-    *   [Lecture 10: Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10.pdf)
+    *   [Lecture 10 (Part 1): Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10a.pdf)
+    *   [Lecture 10 (Part 2): Empirical Analysis with Curated Test Sets](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10b.pdf)
     *   [Lecture 11: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
 *   Programming Tools and Techniques
     *   [Lecture 12: Development Tools](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture12.pdf)
