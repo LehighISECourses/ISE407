@@ -62,8 +62,12 @@
 
 ### Assignments
 
-*   [Assignment 0](https://coral.ise.lehigh.edu/~ted/files/ie407/assignments/ps0.pdf)
-*   [Final Project](https://coral.ise.lehigh.edu/~ted/files/ie407/assignments/project.pdf)
+*   [Assignment 0](https://github.com/LehighISECourses/ISE407-Assignment-0)
+*   [Assignment 1](https://github.com/LehighISECourses/ISE407-Assignment-1)
+*   [Assignment 4](https://github.com/LehighISECourses/ISE407-Assignment-2)
+*   [Assignment 3](https://github.com/LehighISECourses/ISE407-Assignment-3)
+*   [Assignment 4](https://github.com/LehighISECourses/ISE407-Assignment-4)
+*   [Final Project](https://github.com/LehighISECourses/ISE407-FinalProject)
 
 ### Tools
 
@@ -74,6 +78,7 @@
     *   [PuLP](http://github.com/coin-or/PuLP/)
     *   [Pyomo](https://github.com/Pyomo)
     *   [PySnooper](https://github.com/cool-RR/pysnooper)
+    *   [line-profile](https://pypi.org/project/line-profiler/)
 *   [Julia](https://julialang.org/)
 *   C/C++
     *   [GCC](http://gcc.gnu.org/)
@@ -133,8 +138,7 @@
     *   [Experimental Analysis of Algorithms](https://apps.dtic.mil/dtic/tr/fulltext/u2/a188528.pdf)
     *   [Experimental Analysis of Algorithms 2](https://www.ams.org/notices/200103/fea-mcgeoch.pdf)
     *   [A Guide to Experimental Algorithmics](http://repository.fue.edu.eg/xmlui/bitstream/handle/123456789/3492/7254.pdf?sequence=1)
-    *   [Designing and Reporting on Computational Experiments with Heuristic Methods](https://cs.uwaterloo.ca/~brecht/courses/854-Experimental-Performance-Evaluation-2018/readings/experimental-algorithmics-cacm-2007.pdf>Experimental Algorithmics</a></li>
-        <li> <a href=)
+    *   [Designing and Reporting on Computational Experiments with Heuristic Methods](https://cs.uwaterloo.ca/~brecht/courses/854-Experimental-Performance-Evaluation-2018/readings/experimental-algorithmics-cacm-2007.pdf)
     *   [How to Present a Paper on Experimental Work with Algorithms](https://infoscience.epfl.ch/record/97845/files/howto.pdf)
     *   [Algorithms and Experiments: The New (and Old) Methodology](http://www.jucs.org/jucs_7_5/algorithms_and_experiments_the/Moret_B_M_E.pdf)
     *   [Design of Experiments for Tuning of Optimization Algorithms](https://www.cs.york.ac.uk/ftpdir/reports/2007/YCST/19/YCST-2007-19.pdf)
@@ -147,7 +151,10 @@
     *   [Anatomy of an Executable](https://kishuagarwal.github.io/life-of-a-binary.html)
     *   [x86-64 Assembly Language Explainer](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
     *   [LLVM Documentation](https://llvm.org/docs/LangRef.html)
-*    Miscellaneous
+*   Parallel Programming
+    *   [Introduction to Data Parallelism in Julia](https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/)
+    *   [Libraries for Parallelism in Julia](https://juliafolds.github.io/data-parallelism/explanation/libraries/)
+*   Miscellaneous
     *   [Makefile tutorial](http://nuclear.mutantstargoat.com/articles/make/)
     *   [Principles of Object-Oriented Programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
     *   [Debugging Tutorial](http://heather.cs.ucdavis.edu/~matloff/debug.html)
