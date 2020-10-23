@@ -93,6 +93,7 @@
     *   [Introduction](https://computing.llnl.gov/tutorials/openMP/)
     *   [Tutorial](http://openmp.org/mp-documents/ntu-vanderpas.pdf)
     *   [Specification](http://www.openmp.org/specs/mp-documents/paper/cspec.pdf)
+    *   [Examples](https://www.openmp.org/wp-content/uploads/OpenMP4.0.0.Examples.pdf)
 
 ### On-line References
 
@@ -154,6 +155,7 @@
 *   Parallel Programming
     *   [Introduction to Data Parallelism in Julia](https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/)
     *   [Libraries for Parallelism in Julia](https://juliafolds.github.io/data-parallelism/explanation/libraries/)
+    *   [Parallel Computing in Julia](https://www.csd.uwo.ca/~mmorenom/cs2101a_moreno/Parallel_computing_with_Julia.pdf)
 *   Miscellaneous
     *   [Makefile tutorial](http://nuclear.mutantstargoat.com/articles/make/)
     *   [Principles of Object-Oriented Programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
