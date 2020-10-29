@@ -19,15 +19,14 @@
     *   [Lecture 8: Complexity and NP-completeness](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture7.pdf)
     *   [Lecture 9: Models of Parallel Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture8.pdf)
 *   Empirical Analysis
-    *   [Lecture 10 (Part 1): Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10a.pdf)
-    *   [Lecture 10 (Part 2): Empirical Analysis with Curated Test Sets](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10b.pdf)
-    *   [Lecture 11: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
+    *   [Lecture 10: Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10a.pdf)
+    *   [Lecture 11: Empirical Analysis with Curated Test Sets](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10b.pdf)
+    *   [Lecture 12: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
 *   Programming Tools and Techniques
-    *   [Lecture 12: Development Tools](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture12.pdf)
-    *   [Lecture 13: Object-oriented Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture13.pdf)
-    *   [Lecture 14: Parallel Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture14.pdf)
+    *   [Lecture 13: Parallel Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture14.pdf)
+    *   [Lecture 14: Development Tools](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture12.pdf)
+    *   [Lecture 15: Data Types and Object-oriented Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture15.pdf)
 *   Data Structures
-    *   [Lecture 15: Abstraction and Data Types](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture15.pdf)
     *   [Lecture 16: Hash Tables](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture16.pdf)
     *   [Lecture 17: Graphs and Trees](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture17.pdf)
     *   [Lecture 18: Tree-based Data Structures](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture18.pdf)
