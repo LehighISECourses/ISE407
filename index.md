@@ -20,11 +20,11 @@
     *   [Lecture 9: Models of Parallel Computation](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture8.pdf)
 *   Empirical Analysis
     *   [Lecture 10: Empirical Analysis](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10a.pdf)
-    *   [Lecture 11: Empirical Analysis with Curated Test Sets](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture10b.pdf)
-    *   [Lecture 12: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
+    *   [Lecture 11: Empirical Analysis with Curated Test Sets](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture11.pdf)
+    *   [Lecture 12: Empirical Analysis of Parallel Algorithms](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture12.pdf)
 *   Programming Tools and Techniques
-    *   [Lecture 13: Parallel Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture14.pdf)
-    *   [Lecture 14: Development Tools](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture12.pdf)
+    *   [Lecture 13: Parallel Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture13.pdf)
+    *   [Lecture 14: Development Tools](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture14.pdf)
     *   [Lecture 15: Data Types and Object-oriented Programming](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture15.pdf)
 *   Data Structures
     *   [Lecture 16: Hash Tables](https://coral.ise.lehigh.edu/~ted/files/ie407/lectures/Lecture16.pdf)
