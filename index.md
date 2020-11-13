@@ -81,7 +81,7 @@
 *   [Julia](https://julialang.org/)
 *   C/C++
     *   [GCC](http://gcc.gnu.org/)
-    *   [GDB](http://sources.redhat.com/gdb)
+    *   [GDB](http://sources.redhat.com/gdb) ([rr](https://github.com/mozilla/rr))
     *   [Valgrind](http://valgrind.org/)
 *    MPI
     *   [Introduction](https://computing.llnl.gov/tutorials/mpi/)
@@ -183,6 +183,28 @@
 *   [Fundamentals of Computer Algorithms](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/ellis-sahni-sartaj-horowitz/fundamentals-of-computer-algorithms/), Ellis Horowitz, Sartaj Sahni
 *   [The Art of Computer Programming](http://coral.ie.lehigh.eduhttps://coral.ise.lehigh.edu/~ted/library/donald-e-knuth/art-of-computer-programming-volume-1-fundamental-algorithms/), Donald Knuth
 *   [Geometric Algorithms and Combinatorial Optimization](https://www.zib.de/groetschel/pubnew/paper/groetschellovaszschrijver1988.pdf) M Groetschel, L. Lovasz, and A. Schrijver.
+
+### Algorithm Links
+
+* [Animation of Heap Sort](http://www.cse.iitk.ac.in/users/dsrkg/cs210/applets/sortingII/heapSort/heap.html)
+* [Animation of a Heap](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+* [Graph Search Animations](http://www.student.seas.gwu.edu/~idsv/idsv.html)
+* [A good demonstration of Dijkstra's Algorithm](http://cs.oregonstate.edu/~minoura/cs261/javaProgs/shortPath/ShortPath.html)
+* [Nice applet demonstrating binary search trees](http://webdiis.unizar.es/asignaturas/EDA/AVLTree/avltree.html) 
+* [Another animation of binary search trees](https://www.cs.usfca.edu/~galles/visualization/BST.html) 
+* [How to win a million dollars playing minesweeper](http://www.claymath.org//Popular_Lectures/Minesweeper/)
+* [Fast Fibonacci Algorithms](http://www.nayuki.io/page/fast-fibonacci-algorithms)
+* [Top 10 Algorithms List](http://www.computer.org/cise/articles/Top_Algorithms.htm)
+* [The Algorithm Repository Steven Skiena SUNY Stony Brook](http://www.cs.sunysb.edu/~algorith/)
+* [A Collection of Algorithm Animation Links Frode Haug Gjovik University College](http://www.hig.no/~algmet/animate.html)
+* [Discussion of Popular Hash Functions](https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed/145633#145633)
+* [Discussion of MurmurHash](https://sites.google.com/site/murmurhash/discussion)
+* [Test Suite for Hash Functions](https://github.com/aappleby/smhasher)
+* [Discussion of Checksums](https://hbfs.wordpress.com/2009/07/21/checksums-part-i/)
+* [Checksums and Hash Functions](https://hbfs.wordpress.com/2011/11/22/hash-functions-checksums-part-ii/)
+* [Testing Hash Functions](https://hbfs.wordpress.com/2015/10/13/testing-hash-functions-hash-functions-part-iii/)
+* [An Implementation of Strassen’s Algorithm](http://gitorious.org/intelws2010/matrix-multiplication/blobs/master/src/matmul.c)
+* [Coppersmith–Winograd algorithm](http://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm)
 
 ### Other Courses On-line
 
