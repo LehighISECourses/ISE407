@@ -73,6 +73,10 @@
 *   IDEs
     *   [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/heliosr/)
     *   [Visual Studio Code](https://code.visualstudio.com/)
+*   Building
+    *   [GNU Make](https://www.gnu.org/software/make/)
+    *   [Cmake](https://cmake.org/)
+    *   [Meson](https://mesonbuild.com/)/ [Ninja](https://ninja-build.org/)
 *   [Python](http://www.python.org/)
     *   [PuLP](http://github.com/coin-or/PuLP/)
     *   [Pyomo](https://github.com/Pyomo)
@@ -156,6 +160,7 @@
     *   [Libraries for Parallelism in Julia](https://juliafolds.github.io/data-parallelism/explanation/libraries/)
     *   [Parallel Computing in Julia](https://www.csd.uwo.ca/~mmorenom/cs2101a_moreno/Parallel_computing_with_Julia.pdf)
 *   Miscellaneous
+    *   [Quick start guide for building C codes](https://not.cafe/2020/10/12/getting-started-with-c-programming.html)
     *   [Makefile tutorial](http://nuclear.mutantstargoat.com/articles/make/)
     *   [Principles of Object-Oriented Programming](http://codebetter.com/raymondlewallen/2005/07/19/4-major-principles-of-object-oriented-programming/)
     *   [Debugging Tutorial](http://heather.cs.ucdavis.edu/~matloff/debug.html)
